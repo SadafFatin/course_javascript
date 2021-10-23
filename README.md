@@ -12,5 +12,5 @@ Each topic discussed here have been presented with example for better understand
 Read more [here](./js.pdf) !
 
 
-Thank you an have a good day
+Thank you and have a good day
 ============================
